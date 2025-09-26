@@ -1,6 +1,6 @@
 # Snake Game 🐍
 
-A classic Snake Game implemented in Python using **Pygame**, designed by **Ravi Kumar**. Control the snake, eat food, grow longer, and try to beat your high score!
+A classic Snake Game implemented in Python using **Pygame**, designed by **Me**. Control the snake, eat food, grow longer, and try to beat your high score!
 
 ---
 
