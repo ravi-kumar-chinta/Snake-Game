@@ -36,7 +36,7 @@ Food items appear randomly on the grid for the snake to eat.
 ---
 
 ## **Steps to Run the Game:** 
-- **Clone the repository**: git clone https://github.com/ravi-kumar-chinta/Snake-Game.git
+- **Clone the repository**: `git clone https://github.com/ravi-kumar-chinta/Snake-Game.git`
 - **Navigate to the folder:** `cd Snake-Game` [Ensure all files (background.mp3, eat.wav, gameover.wav) are in the same folder].
 - **Run the game:** python `Snake Game.py`
 
@@ -55,6 +55,6 @@ Here’s how the game looks:
  
 ---
 
-**Enjoy Playing!**  
+## **Enjoy Playing!**  
 Thank you for checking out **Snake Game**. Have fun growing your snake, beating your high score, and exploring future improvements! 🚀🐍
 
