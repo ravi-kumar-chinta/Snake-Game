@@ -24,15 +24,6 @@ Food items appear randomly on the grid for the snake to eat.
 
 ---
 
-## Features
-- Snake color: light yellow  
-- Food color: dark blue  
-- Real-time responsive controls  
-- Sound effects for eating food and game over  
-- Flash effect when eating food  
-
----
-
 ## Future Improvements
 - Increasing difficulty over time  
 - Adding obstacles or hazards  
