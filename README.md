@@ -18,16 +18,10 @@ Food items appear randomly on the grid for the snake to eat.
 
 ## Gameplay Mechanics
 - **Snake Movement:** The snake moves continuously in the direction it was last directed by the player using the arrow keys. Arrow keys (UP, DOWN, LEFT, RIGHT) control movement. The snake wraps around the screen edges, appearing on the opposite side if it moves off one edge.  
-- **Eating Food:** Food items appear as small circles on the grid. When the snake’s head collides with a food item, it consumes it and grows longer by adding a new segment to its tail.  
+- **Eating Food:** Food items appear as small rectangles on the grid. When the snake’s head collides with a food item, it consumes it and grows longer by adding a new segment to its tail.  
 - **Growing and Scoring:** Each time the snake eats food, the score increases. The game speed may increase as the snake grows.  
 - **Game Over Conditions:** The game ends if the snake collides with itself.
 
----
-
-## Future Improvements
-- Increasing difficulty over time  
-- Adding obstacles or hazards  
-- Implementing levels with different challenges  
 
 ---
 
