@@ -107,5 +107,5 @@ Here’s how the game looks:
 - Implemented smooth controls, scoring, and sound effects.
 ---
 
-**Enjoy Playing!**  
+- **Enjoy Playing!**  
 Thank you for checking out **Snake Game**. Have fun growing your snake, beating your high score, and exploring future improvements! 🚀🐍
