@@ -1,7 +1,8 @@
 # Snake Game 🐍
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=pygame&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=python&logoColor=white&labelColor=000000) ![Game](https://img.shields.io/badge/GameDev-🎮-green)
+
 
 ---
 
@@ -33,7 +34,8 @@ This project demonstrates **real-time game mechanics, event handling, and basic 
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/ravi-kumar-chinta/Snake-Game.git
-
+```
+```bash
 cd Snake-Game
 ```
 2. **Install required libraries:**
@@ -54,6 +56,8 @@ python "Snake Game.py"
 --- 
 ## 📂 Folder Structure
 
+```bash
+
 Snake-Game/
 │
 ├── Snake Game.py           # Main game script
@@ -64,7 +68,7 @@ Snake-Game/
     ├── background.mp3
     ├── eat.wav
     └── gameover.wav
-
+```
 
 ---
 
