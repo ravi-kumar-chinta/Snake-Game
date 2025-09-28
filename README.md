@@ -84,7 +84,7 @@ Snake-Game/
 ## Screenshot Preview:
 Here’s how the game looks:
 
-![Snake Game Screenshot](screenshot.png)
+![Snake Game Screenshot](https://github.com/ravi-kumar-chinta/Snake-Game/blob/main/Screenshot.png)
 
 
 ---
