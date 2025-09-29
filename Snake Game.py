@@ -32,10 +32,10 @@ score = 0
 font = pygame.font.SysFont("Arial", 30, bold=True)
 speed = 8
 
-pygame.mixer.music.load(r"C:\Users\hp\OneDrive\Desktop\Snake-Game-main\background sound.mp3")
+pygame.mixer.music.load(r"C:\Users\hp\OneDrive\Desktop\Projects\Snake-Game\Sound-effects\Background-music.mp3")
 pygame.mixer.music.play(-1)
-eat_sound = pygame.mixer.Sound(r"C:\Users\hp\OneDrive\Desktop\Snake-Game-main\Eating sound.wav")
-gameover_sound = pygame.mixer.Sound(r"C:\Users\hp\OneDrive\Desktop\Snake-Game-main\game over sound.wav")
+eat_sound = pygame.mixer.Sound(r"C:\Users\hp\OneDrive\Desktop\Projects\Snake-Game\Sound-effects\eating-sound.wav")
+gameover_sound = pygame.mixer.Sound(r"C:\Users\hp\OneDrive\Desktop\Projects\Snake-Game\Sound-effects\game-over-sound.wav")
 
 def display_snake_and_food():
     global snake_x, snake_y, food_x, food_y, score, speed, snake_color
